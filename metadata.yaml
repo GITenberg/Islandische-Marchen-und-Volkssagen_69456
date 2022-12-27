@@ -1,0 +1,27 @@
+_repo: Islandische-Marchen-und-Volkssagen_69456
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Avenstrup, Åge
+    gutenberg_agent_id: '55274'
+    url: http://www.gutenberg.org/2009/agents/55274
+  - agent_name: Treitel, Elisabeth
+    gutenberg_agent_id: '55275'
+    url: http://www.gutenberg.org/2009/agents/55275
+description: ''
+gutenberg_issued: '2022-12-02'
+identifiers:
+  gutenberg: '69456'
+language: de
+pgterms:marc905: 20210103002440avenstrup
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Axel Junker Verlag,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Isländische Märchen und Volkssagen
+url: http://www.gutenberg.org/ebooks/69456
