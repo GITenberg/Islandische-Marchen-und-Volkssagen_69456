@@ -8,7 +8,12 @@ contributor:
   - agent_name: Treitel, Elisabeth
     gutenberg_agent_id: '55275'
     url: http://www.gutenberg.org/2009/agents/55275
+covers:
+- cover_type: archival
+  image_path: 69456-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69456#Islandische-Marchen-und-Volkssagen
 gutenberg_issued: '2022-12-02'
 identifiers:
   gutenberg: '69456'
